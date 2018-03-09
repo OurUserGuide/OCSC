@@ -1,31 +1,18 @@
-# Web Front Deployment [](id=web-front-deployment)
-	
-![Web Design Approach (7 Pgs)](https://github.com/OurUserGuide/OCSC/wiki/Web-Design)	
-![Designs and Layouts](https://github.com/OurUserGuide/OCSC/wiki/Web-Designs-and-Layout) (est 20 Pgs)	
-  - Content Categorisation (10 Pgs)	
-  - Web Optimisation (4 Pgs)	
-  - Minisite Cover Section (12 Pgs - RELC Iteration 2)	
-  - RELC Template Listing (24 Pgs - RELC Iteration 2)	
-  - Page Layouts (4 Pgs)	
-  - Themes Application (1 Pg)	
-		
-System Setup		
-  - Control Panel (22 Pgs)	
-  - Roles and Permissions (1 Pg)	
-		
-Product Setup		
-  - Process Flow Design Tools & Application	
-    - Process-Flows Documentation (52 Pgs)
-    - Forms Builder (22 Pgs)
-		
-  - Product Cataog	
-    - Product Documentation (29 Pgs)
-    - Product and Catalog Publishing (5 Pgs)
-    - Link Product to Process (6 Pgs)
-    - Copy an existing Course of Module (1 Pg)
-    - Product Catalogue with Advance Search Capabilities (2 Pgs - Wiki)
-    - Product Activation/ Deactivation (3 Pgs)
-		
-Contact Management		
-  - OCSC - Enterprise Contact Management (29 Pgs)	
-  - OCSC - Individual Contact Management (28 Pgs)	
+# Managing Documents and Media [](id=managing-documents-and-media)
+
+@product@'s Documents and Media library provides a mechanism for storing files
+online using the same type of structure that you use to store files locally. You
+can use it to store files of any kind; it serves as a virtual shared drive, and
+can mount and browse external repositories. Its companion app, the Media
+Gallery, displays selected content from the Documents and Media library. It can
+display image, audio, and video files. Other features in the Documents and Media
+library include customizable document types and metadata sets, automatic
+document preview generation, and support for mounting multiple external
+repositories.
+
+Liferay Sync synchronizes your local copies of the Documents and Media libraries
+with your site's libraries. It lets you manage files from your desktop machine
+and mobile device. It provides the best way to manage your files on all your
+devices.
+
+Let's get started with Documents and Media by exploring how to publish files.
